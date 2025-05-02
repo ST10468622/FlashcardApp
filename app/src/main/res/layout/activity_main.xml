@@ -1,0 +1,35 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:padding="32dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/introTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/dm_serif_display"
+        android:text="Welcome to the Awesome Quiz App! Test your knowledge on ."
+        android:textAlignment="center"
+        android:textColor="#F0E8E8"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="53dp"
+        android:layout_below="@+id/introTextView"
+        android:layout_marginTop="494dp"
+        android:layout_marginBottom="494dp"
+        android:fontFamily="@font/dm_serif_display"
+        android:text="Start Quiz" />
+
+</LinearLayout>
+

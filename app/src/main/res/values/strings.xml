@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashcard App</string>
+    <string name="a">Apartheid in South Africa officially began in 1948</string>
+    <string name="b">Nelson Mandela was released from prison in 1980</string>
+    <string name="c">The African National Congress (ANC) was banned during apartheid.</string>
+    <string name="d">The apartheid system allowed all races to vote equally.</string>
+    <string name="e">The Sharpeville Massacre occurred in 1960.</string>
+
+</resources>
